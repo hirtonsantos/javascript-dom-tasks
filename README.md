@@ -1,6 +1,5 @@
 # javascript-dom-tasks  
 
-<img src="controle-de-despesas/assets/image-main.png" alt="image-main.png">
 
 ### Finance Management  
 
@@ -13,3 +12,5 @@ form to add new transaction in website
 listing of products w/ scroll and without repetitions  
 renderization of the values: income, expenses and total  
 
+
+<img src="controle-de-despesas/assets/image-main.png" alt="image-main.png">
