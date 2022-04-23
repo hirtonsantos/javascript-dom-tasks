@@ -10,7 +10,7 @@ Finance Management is a application to management of the your finances using onl
 
 ### features:  
 
-form to add new transaction in website
-listing of products w/ scroll and without repetitions  
-renderization of the values: income, expenses and total  
+form to add new transaction in website  
+listing of products w/ scroll and without repetitions    
+renderization of the values: income, expenses and total    
 
